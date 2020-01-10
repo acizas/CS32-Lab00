@@ -43,7 +43,7 @@ int indexOfMax(int *a, int n) {
   int m = a[0];
   int j;
   for (int i =0; i < n; i++) {
-    if (a[i] > max) {
+    if (a[i] > m) {
 	    m = a[i];
 	    j = i;
     }
