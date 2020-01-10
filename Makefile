@@ -1,4 +1,4 @@
-#Makefile for lab00, Andrew Cizas, CS32, W19
+#Makefile for lab00, Andrew Cizas, CS32, W20
 
 CXX=clang++
 # CXX=g++
